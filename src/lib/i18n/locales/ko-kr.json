@@ -82,7 +82,6 @@
   "push_text_3": "현재 숨김 한 사용자의 알림도 받습니다.",
   "push_text_4": "앱 또는 브라우저에서 알림 설정을 켜야 합니다.",
   "push_text_5": "지원 환경의 정보는 설명서를 읽어 주시기 바랍니다.",
-  "push_text_6": "",
   "push_settings": "알림 설정",
   "push_subscription_success": "구독에 성공했습니다.",
   "push_subscription_failed": "구독에 실패했습니다.",
@@ -212,7 +211,7 @@
   "feed_show_button": "피드 보기",
   "feeds_toggle_creator": "제작자 보기",
   "popular_feeds": "인기있는 피드",
-  "tokimeki_feeds": "TOKIMEKI\uD83D\uDC99가 만듦",
+  "tokimeki_feeds": "TOKIMEKI💙가 만듦",
   "use_absolute_time": "절대 시간 표시",
   "realtime_follows_count": "팔로우 수",
   "realtime_follows_refresh": "팔로우 새로고침",
@@ -543,5 +542,6 @@
   "thread_gate_modal_description": "이 게시물에 회신할 수 있는 계정을 선택합니다.",
   "advanced_break_title": "실험적: 일본어의 고도의 개행 제어",
   "advanced_break_description": "기계 학습을 이용한 자연스러운 반환이 활성화됩니다.Chrome, Edge 계열만 지원.",
-  "workspace_help": "워크스페이스 란"
+  "workspace_help": "워크스페이스 란",
+  "external_embed_layout": "링크 카드 크기"
 }
